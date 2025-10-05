@@ -1,0 +1,401 @@
+claim_id,food_id,receiver_id,food_name,quantity,provider_id,provider_type,location,meal_type,name_x,type_x,address,city_x,contact_x,name_y,type_y,city_y,contact_y,days_to_expiry,food_0,food_1,food_2
+522.0,271.0,372.0,Rice,-0.27598983131918176,254.0,2,Reidland,0,Huber Group,Restaurant,"36361 Roger Trail Apt. 099
+Ashleybury, MD 98039",Reidland,001-841-494-8011x4394,Harold Bowen,Charity,South Barbaraburgh,732.692.1653x04238,-1.387044533614159,False,True,False
+738.0,819.0,482.0,Bread,0.6302662452530241,304.0,0,Port Marcland,0,Douglas-Colon,Catering Service,"30465 Latoya Haven
+Hartville, NC 48753",Port Marcland,439.020.2351,Timothy Garrett,NGO,Andersonview,9075323328,1.2095330480324946,True,False,False
+741.0,886.0,842.0,Bread,1.53652232182523,423.0,2,South Justinborough,0,Serrano-Lopez,Restaurant,"312 Hodge Center
+West Stevenshire, KS 70989",South Justinborough,(225)688-7752x0658,Robert Stewart,Shelter,New Laura,873-501-6244x4712,-0.6788870113468899,False,False,True
+661.0,520.0,560.0,Fish,-0.20627782542901207,559.0,0,New Baileyfort,0,"Young, Moran and Morris",Catering Service,"0953 Davis Well Apt. 329
+West Maurice, NC 31745",New Baileyfort,+1-750-812-7169x04781,Matthew Mendez,Shelter,South Meganland,+1-406-192-3141x20799,0.5013755257652255,True,False,False
+412.0,981.0,220.0,Dairy,1.4668103159350603,999.0,1,Stevenchester,0,Moody Ltd,Grocery Store,"17580 Ernest Hills
+Lake Michaelmouth, OR 56416",Stevenchester,637.300.3664x4880,Cassandra Mendoza,NGO,Dantown,2612673922,-1.150992026191736,False,True,False
+679.0,302.0,305.0,Bread,0.3514182216923454,760.0,3,Yatesside,3,Frederick LLC,Supermarket,"6559 Matthew Turnpike
+Johnsonchester, AK 98520",Yatesside,784.860.0232x137,Brendan Vargas,NGO,Kellyville,981.660.6741x707,0.02927051092037933,False,True,False
+627.0,686.0,814.0,Salad,-0.7639738725503695,707.0,3,Laurietown,1,"Peterson, Lee and Moore",Supermarket,"439 Dana Vista
+North Tracyton, TN 34903",Laurietown,710-623-8778x66342,Michael Petersen,NGO,Maryside,+1-454-301-1932x97038,1.2095330480324946,False,False,True
+514.0,521.0,274.0,Vegetables,-0.20627782542901207,792.0,0,Mortonfort,3,Rogers-Maldonado,Catering Service,"9659 Reed Ridge
+Waltersshire, MO 80569",Mortonfort,343-728-0009x45256,Robin Ross,Individual,East Williamborough,(780)754-0093,-1.387044533614159,False,True,False
+860.0,9.0,345.0,Bread,1.3970983100448906,47.0,3,East Andrewland,3,Wong-Reese,Supermarket,"9078 Jeffrey Drive Suite 439
+Lake Jasonberg, RI 48655",East Andrewland,483-625-4097,Eric Ramos,Individual,Rushfurt,515.928.1587x32812,0.5013755257652255,True,False,False
+137.0,46.0,548.0,Pasta,-0.0668538136486727,576.0,0,East Emilyburgh,0,Townsend Inc,Catering Service,"39437 Alejandro Path Apt. 765
+Olsonview, MS 29423",East Emilyburgh,001-820-820-2213x469,Gary Andrews,NGO,Gonzalezstad,+1-115-368-3340,1.2095330480324946,False,False,True
+812.0,820.0,473.0,Fruits,1.3970983100448906,753.0,3,South Randy,2,Lawrence-Clark,Supermarket,"699 Brooks Parkway
+Davisside, AL 18704",South Randy,122-170-5452x33780,Justin Powell,Shelter,Port Sarah,001-823-112-3947x46965,0.9734805406100716,True,False,False
+77.0,65.0,324.0,Fruits,1.327386304154721,602.0,1,North Destiny,0,Cole LLC,Grocery Store,"USS Zhang
+FPO AP 50279",North Destiny,001-078-379-8075x2377,Kristine Martin,NGO,Thompsonhaven,444.954.4127x16438,0.7374280331876485,True,False,False
+637.0,476.0,216.0,Fruits,-1.6702299491225754,993.0,2,East Stephanie,1,Mckinney Ltd,Restaurant,"179 Fernandez Rapids
+Campbellport, MA 31352",East Stephanie,225-959-2378,Morgan Massey,Charity,West Amybury,929-286-6902,1.2095330480324946,True,False,False
+974.0,643.0,371.0,Salad,-1.2519579137815573,240.0,0,Andreaborough,1,Marshall Ltd,Catering Service,"30050 Christine Square Apt. 097
+Kingfort, KS 26841",Andreaborough,+1-314-339-0357x53136,William Frederick,NGO,Port Dean,001-228-551-9866,0.02927051092037933,False,True,False
+939.0,37.0,512.0,Fish,-0.4851258489896908,389.0,1,Davidborough,1,Hunt-Lee,Grocery Store,"1004 Michael Mission
+East Kenneth, NY 07626",Davidborough,001-681-802-0601x91223,Anne Stone,Shelter,Pittsville,(468)482-9531x7575,-0.6788870113468899,True,False,False
+900.0,545.0,532.0,Pasta,-0.20627782542901207,984.0,0,South Edwardtown,3,Gamble-Davis,Catering Service,"6516 Natalie Parkway Apt. 359
+Port Angelicaville, OK 74292",South Edwardtown,298.868.0798x375,David Sellers DVM,Individual,South Michaelfurt,492.321.3443,1.4455855554549177,False,False,True
+281.0,483.0,718.0,Vegetables,0.6999782511431938,933.0,0,Anthonyborough,3,Jimenez-Ramirez,Catering Service,"29016 Patricia Turnpike
+North Jeffreymouth, VT 07661",Anthonyborough,(406)401-4554x74878,Matthew Brown,Individual,Port Amberfurt,785-336-0978,1.4455855554549177,False,False,True
+884.0,364.0,493.0,Fish,0.49084223347268474,540.0,0,Henrychester,3,Randall-Wagner,Catering Service,"9517 Adrienne Valleys Suite 015
+South Jennifer, ME 25672",Henrychester,427.635.9668x1254,Chelsea Powell,Charity,Lake Rachelburgh,001-527-059-4168x72504,-0.20678199650204374,True,False,False
+762.0,505.0,275.0,Pasta,-0.9731098902208786,494.0,3,New Denise,3,"Anderson, Adams and Roberts",Supermarket,"Unit 8792 Box 5188
+DPO AP 55807",New Denise,+1-941-120-2190x554,Michael Johnson,Individual,Longmouth,081.042.8712,-0.20678199650204374,False,False,True
+320.0,241.0,815.0,Fish,-1.530805937342236,135.0,0,East Candace,0,Dyer Group,Catering Service,"601 Kent Mills Apt. 098
+New Robertstad, NY 73393",East Candace,906.900.1026,James Miller,NGO,North Dawn,001-359-139-7284x11773,0.02927051092037933,False,False,True
+550.0,115.0,882.0,Pasta,-1.2519579137815573,963.0,3,East Bernard,2,Johnson PLC,Supermarket,"38009 Oconnor Prairie
+Janicemouth, MS 31632",East Bernard,(764)089-8990x152,Steven Shaffer,Shelter,Rodneyport,(799)793-9460,0.7374280331876485,False,True,False
+175.0,813.0,745.0,Fish,0.49084223347268474,610.0,3,Allenton,0,"Kelly, Cummings and Ward",Supermarket,"Unit 4632 Box 7131
+DPO AP 21204",Allenton,795.078.7850,Jose Vance,NGO,Lake Heatherberg,216.620.7837x2021,0.02927051092037933,False,False,True
+372.0,804.0,2.0,Fruits,1.4668103159350603,16.0,0,West Vanessafort,0,Brown and Sons,Catering Service,"1745 Chan Ridges
+Ginaville, OK 07163",West Vanessafort,018-471-0550x16593,Laurie Ramos,Individual,Lewisburgh,761.042.1570,0.9734805406100716,False,True,False
+528.0,819.0,1.0,Bread,0.6302662452530241,304.0,0,Port Marcland,0,Douglas-Colon,Catering Service,"30465 Latoya Haven
+Hartville, NC 48753",Port Marcland,439.020.2351,Donald Gomez,Shelter,Port Carlburgh,(955)922-5295,1.2095330480324946,True,False,False
+211.0,406.0,787.0,Salad,0.14228220402183636,222.0,0,Stephanieberg,3,"Tran, Douglas and Harvey",Catering Service,"5607 Ernest Summit
+South Petertown, MS 89142",Stephanieberg,(015)911-4687x4992,Rachel Rios,NGO,Sarahaven,319-104-8885,-0.20678199650204374,False,False,True
+236.0,327.0,301.0,Dairy,-0.1365658195388424,834.0,3,Harrishaven,0,Bruce Inc,Supermarket,"642 Schultz Divide Apt. 480
+Matthewview, PA 26612",Harrishaven,(258)012-0928x8067,Kristina Simpson,NGO,Melissaport,3752453906,-0.20678199650204374,False,False,True
+102.0,110.0,772.0,Salad,1.6062343277153996,354.0,0,South Alicia,1,Rowe-Arias,Catering Service,"8041 Joseph Shoal Suite 878
+North Robertfurt, KY 43667",South Alicia,090-649-4737,Cassandra Yoder,Charity,Danielfurt,+1-928-766-0621x673,-1.387044533614159,False,True,False
+987.0,579.0,769.0,Dairy,1.2576742982645512,885.0,2,Lake Stephen,0,"Spears, Anderson and Huffman",Restaurant,"4257 Roberto Squares
+New Timothyhaven, NY 01630",Lake Stephen,1906277080,John Warner,Shelter,Cookhaven,+1-003-320-5395,0.2653230183428024,False,False,True
+903.0,413.0,426.0,Salad,0.3514182216923454,315.0,2,Lake Andrewmouth,2,Nelson LLC,Restaurant,"773 Frazier Ranch
+Kellerbury, GA 32205",Lake Andrewmouth,+1-859-029-3911x34890,Jose Rivas,Shelter,Rosaleschester,001-411-455-9848x386,0.2653230183428024,False,False,True
+948.0,156.0,482.0,Fish,-0.1365658195388424,970.0,0,Jeffreybury,3,"Lewis, Preston and Price",Catering Service,"6974 Paul Estate
+Lake Jacob, NV 24380",Jeffreybury,6685913720,Timothy Garrett,NGO,Andersonview,9075323328,-0.9149395187693129,False,False,True
+347.0,564.0,283.0,Fish,0.21199420991200604,518.0,1,Anneville,2,"Hill, Davis and Stewart",Grocery Store,"6315 Jonathan Views Suite 276
+Jerryhaven, TX 90986",Anneville,+1-608-953-5542x841,Edward Cook,Charity,Isaiahtown,990-534-5202x158,1.2095330480324946,True,False,False
+140.0,548.0,168.0,Fish,0.002858192241496983,714.0,0,North William,3,Ramos Group,Catering Service,"2242 Olivia Grove
+Haileymouth, NH 71518",North William,727-987-0431x177,Kayla Johnson,Shelter,East Timhaven,786.534.5065,-0.9149395187693129,False,True,False
+622.0,949.0,963.0,Pasta,-0.7639738725503695,632.0,3,Davidville,0,"Oliver, Ross and Johnson",Supermarket,"24971 Stephanie Manors Suite 735
+East Jessemouth, SD 28563",Davidville,001-179-898-4092,Victor Ward,NGO,Johnhaven,628-048-2026x3385,-0.6788870113468899,False,False,True
+500.0,532.0,102.0,Bread,1.6759463336055693,550.0,0,Timothychester,0,"Phelps, Graham and Hayes",Catering Service,"59138 Sherman Light Apt. 256
+Rossside, ND 89271",Timothychester,(512)814-0594x96653,Daniel Burton,Individual,North Matthewhaven,972.284.4190x487,-0.6788870113468899,True,False,False
+371.0,677.0,658.0,Dairy,1.1879622923743816,672.0,0,North Mariahchester,0,"Ferguson, Henderson and Watson",Catering Service,"89711 Cassandra Overpass
+Williamchester, AZ 28267",North Mariahchester,351-379-8297x4923,Frank Olson,Shelter,South Anthonyside,001-996-747-5678x5051,-1.6230970410365821,False,True,False
+199.0,913.0,439.0,Fruits,0.9091142688137028,962.0,0,Alexanderchester,1,Galloway-Henderson,Catering Service,"Unit 2168 Box 9786
+DPO AA 06880",Alexanderchester,001-867-928-0212x3211,Erika Lopez,Shelter,North Margarethaven,117.027.1702,-0.20678199650204374,False,False,True
+688.0,854.0,525.0,Fish,0.49084223347268474,804.0,2,North Ashley,0,Jackson Ltd,Restaurant,"45950 Gould Stravenue Suite 966
+Lauraton, MT 41682",North Ashley,+1-871-214-5204x667,Michael Dixon,Charity,Rebeccaview,579.632.5450x933,-0.20678199650204374,False,True,False
+585.0,373.0,926.0,Rice,0.9091142688137028,252.0,1,Phillipsfort,2,Blair LLC,Grocery Store,"084 Alejandro Ports Apt. 820
+Sarahton, LA 54906",Phillipsfort,(213)522-3298x866,Kimberly Ware,Individual,East Sheriton,001-078-266-0266,-0.44283450392446677,True,False,False
+902.0,210.0,852.0,Fruits,-0.6245498607700302,990.0,0,Lake Latasha,0,Jones PLC,Catering Service,"2646 Hull Wall Apt. 985
+Valenciamouth, TN 58725",Lake Latasha,+1-231-061-4929x4353,Jo Martinez,Charity,Port Williamtown,+1-264-342-6012x6505,1.2095330480324946,False,False,True
+60.0,390.0,391.0,Soup,-0.4851258489896908,264.0,0,New Richard,2,Holland and Sons,Catering Service,"430 Tyler View Apt. 166
+South Katherine, TX 04269",New Richard,184-401-2586x9344,Regina Munoz,NGO,Lake Clinton,585.955.3149,0.9734805406100716,True,False,False
+329.0,419.0,323.0,Rice,0.002858192241496983,585.0,1,Port Donnaton,0,Warren Group,Grocery Store,"1956 Moreno Plains Apt. 468
+Trevorfort, LA 26796",Port Donnaton,756-246-6838x5142,Linda Banks,Individual,New Sarahmouth,323-540-9403x92583,-0.9149395187693129,False,False,True
+97.0,381.0,802.0,Pasta,0.6302662452530241,86.0,0,New Michelle,1,Murphy-Boyd,Catering Service,"7105 James Overpass
+Wilsonberg, NC 47111",New Michelle,387-962-7399x435,Lisa Cruz,Charity,Stevenmouth,(372)091-7748x36631,-1.150992026191736,False,True,False
+313.0,143.0,880.0,Fish,-0.5548378548798605,938.0,2,Hollyhaven,2,Barker LLC,Restaurant,"5999 Brenda Trail Apt. 807
+Amberstad, VT 22034",Hollyhaven,+1-530-780-2072x25507,Kristen Foster,Shelter,North Ricardo,749.252.8592,0.2653230183428024,True,False,False
+975.0,226.0,132.0,Rice,0.002858192241496983,242.0,2,Michaelport,3,Aguilar-Frederick,Restaurant,"6353 Chad Circles
+Brewerland, NM 53897",Michaelport,+1-057-752-7548,Katherine Gomez,Charity,South Jasonberg,(609)802-2108x3673,-0.20678199650204374,True,False,False
+300.0,81.0,645.0,Fruits,0.49084223347268474,848.0,3,Fowlerbury,3,Fisher PLC,Supermarket,"350 Danny Flats Suite 806
+Smithfort, IN 28216",Fowlerbury,+1-823-181-5943x270,Steven Armstrong,NGO,Robertfurt,2161559564,-1.150992026191736,False,False,True
+278.0,258.0,360.0,Fish,-0.1365658195388424,101.0,2,East Angelafort,0,Chambers-Waters,Restaurant,"56762 Kimberly Light Suite 474
+Matthewmouth, UT 45275",East Angelafort,001-230-322-3448x38934,Tammy Boone,Shelter,New Christopher,301.713.7646x501,-0.44283450392446677,False,False,True
+925.0,237.0,985.0,Salad,0.9091142688137028,643.0,3,North Ebony,1,Dixon LLC,Supermarket,"11321 Nicholas Estates Suite 016
+Leeland, LA 25575",North Ebony,+1-283-422-5540x00555,Thomas Sanchez,NGO,Rodneyfurt,231.592.1072x512,0.9734805406100716,False,True,False
+602.0,165.0,997.0,Bread,-0.27598983131918176,90.0,3,Lake Kristentown,2,Miller Group,Supermarket,"8851 Powell Cliffs Apt. 635
+South Michael, MO 83778",Lake Kristentown,001-311-806-0098x37361,Amanda Cain,NGO,New Steven,+1-001-491-5601x5316,1.2095330480324946,False,False,True
+440.0,265.0,460.0,Fruits,0.42113022758251506,862.0,1,East Tammy,0,Obrien-Carr,Grocery Store,"7915 Jacob Tunnel Suite 241
+New Lisaport, HI 08755",East Tammy,096.381.4881x4011,Karen Stafford,Shelter,West Justinberg,(040)774-3704,0.7374280331876485,True,False,False
+838.0,728.0,870.0,Dairy,0.14228220402183636,265.0,0,New Douglas,1,Simmons-Mcdaniel,Catering Service,"237 Jason Trail
+East Jacobborough, VT 07794",New Douglas,175-617-1876,Joshua Mendoza,Charity,North Amy,(842)876-7043x953,1.2095330480324946,False,False,True
+571.0,408.0,789.0,Soup,1.1182502864842119,391.0,3,South Jerryside,0,Lambert Ltd,Supermarket,"10860 Jones Fields
+North Nicholasmouth, MI 89187",South Jerryside,351.542.5864x527,Laura Robertson,NGO,Hansonfurt,616-851-6533x67759,0.2653230183428024,True,False,False
+880.0,751.0,811.0,Chicken,-0.5548378548798605,720.0,2,Francisshire,3,"Page, Smith and Davis",Restaurant,"065 Mary Estate Apt. 886
+North Jessica, NY 33169",Francisshire,921-470-8846x3047,Scott Schroeder,Shelter,Markfurt,001-229-042-2531x276,0.5013755257652255,False,True,False
+262.0,188.0,706.0,Soup,-1.530805937342236,55.0,1,Danachester,0,Wilson-Brown,Grocery Store,"220 Rachel Trace
+Port Mark, AK 17083",Danachester,001-473-163-6196x2386,Shannon Jensen,Shelter,Lake Kevinport,001-378-570-1120x234,-0.6788870113468899,False,True,False
+579.0,559.0,342.0,Salad,-0.5548378548798605,814.0,1,Allenborough,1,"Scott, Lopez and Baldwin",Grocery Store,"335 Mark Center
+Grantport, HI 41240",Allenborough,001-590-644-2836,Kristina Vargas,Charity,Lake Rebeccaton,364.779.6707x066,-0.20678199650204374,False,True,False
+24.0,594.0,717.0,Chicken,0.6302662452530241,140.0,2,Watsonstad,0,Zhang LLC,Restaurant,"6343 Sanders Park Suite 844
+Port Brendaton, FL 49650",Watsonstad,001-943-679-8869x4358,Jonathon Gregory,Individual,Shortfort,040-511-7461x377,1.2095330480324946,True,False,False
+31.0,937.0,546.0,Bread,-0.5548378548798605,916.0,0,Patrickfort,2,Davis and Sons,Catering Service,"551 Huynh Trail Apt. 373
+Lake Kevinton, KS 39284",Patrickfort,965.266.3582,Meagan Hughes,Charity,Lake Lance,(109)364-9434,0.9734805406100716,True,False,False
+618.0,395.0,134.0,Vegetables,0.6999782511431938,717.0,0,Pamelaberg,2,Shepherd and Sons,Catering Service,"533 Peters Locks Suite 995
+West Mindyhaven, MS 87079",Pamelaberg,+1-508-027-9784,Emily Christian,Individual,Marcusberg,(724)629-2189x533,1.2095330480324946,False,True,False
+11.0,290.0,118.0,Dairy,-0.4851258489896908,315.0,2,Lake Andrewmouth,2,Nelson LLC,Restaurant,"773 Frazier Ranch
+Kellerbury, GA 32205",Lake Andrewmouth,+1-859-029-3911x34890,Matthew Tran,Charity,South Franciscoport,583.144.1560x457,-0.9149395187693129,True,False,False
+222.0,550.0,747.0,Rice,-0.6942618666601998,836.0,0,New Ninashire,1,Phillips PLC,Catering Service,"4419 Moore Pike Apt. 613
+West Cheryl, VA 40988",New Ninashire,+1-041-200-9724x3812,Vanessa Johnson,Shelter,Wilsonshire,(151)347-7079x5528,1.4455855554549177,False,True,False
+821.0,590.0,300.0,Fruits,-1.0428218961110483,56.0,0,Michaelview,3,Morris Ltd,Catering Service,"03207 Paul Shoals
+Thomasshire, AR 89205",Michaelview,654-751-2531x515,Jeanne Benjamin,NGO,North Alexander,595.000.7971x3446,1.2095330480324946,False,True,False
+297.0,494.0,454.0,Bread,1.0485382805940422,129.0,2,Port Emily,0,Hicks Ltd,Restaurant,"4349 Michael Fort
+South Melissa, ND 26423",Port Emily,510.799.8149x819,Steven Griffin,NGO,Cruzborough,511.595.0189,0.2653230183428024,False,False,True
+55.0,438.0,601.0,Dairy,1.3970983100448906,84.0,2,Marthaside,0,Atkins Group,Restaurant,"2205 Sharp Junction Suite 771
+Drakefurt, KY 14437",Marthaside,+1-318-669-6985x63710,Peter Gonzalez,Shelter,Biancaton,(112)578-4601x9811,-0.6788870113468899,False,False,True
+543.0,657.0,748.0,Rice,-0.8336858784405392,239.0,1,South Bradleyburgh,2,"Simpson, Thomas and Smith",Grocery Store,"204 Charles Viaduct
+Perezfurt, WV 57676",South Bradleyburgh,001-117-114-7043,Bridget Williams,Charity,South Williamview,001-079-347-2416x344,1.2095330480324946,False,True,False
+210.0,813.0,388.0,Fish,0.49084223347268474,610.0,3,Allenton,0,"Kelly, Cummings and Ward",Supermarket,"Unit 4632 Box 7131
+DPO AP 21204",Allenton,795.078.7850,Nicole Mueller,Charity,Rachelberg,241-269-1178,0.02927051092037933,False,False,True
+605.0,727.0,786.0,Chicken,-1.6005179432324057,285.0,2,West Corey,2,Sanchez-Fisher,Restaurant,"77514 Todd Creek Apt. 870
+East Ashley, ND 47642",West Corey,971.803.6233x098,Robert Kim,Shelter,Port Gabrielleborough,513-156-7998x53487,-1.150992026191736,False,False,True
+693.0,479.0,647.0,Salad,-1.6702299491225754,786.0,2,Basstown,0,Simmons-Davis,Restaurant,"788 Tiffany Spur Apt. 373
+Port Matthew, NY 44804",Basstown,532.668.4291x87339,Christine Davis,Charity,Josephton,144.359.7605,-1.150992026191736,False,False,True
+663.0,180.0,884.0,Salad,0.6302662452530241,7.0,2,Lake Christopherburgh,1,Ortiz-Lee,Restaurant,"1842 Villarreal Shores
+Williamfort, CT 44529",Lake Christopherburgh,(563)889-7190,Mary Evans,Shelter,North Josephmouth,248-457-5683,1.2095330480324946,False,True,False
+867.0,692.0,794.0,Bread,-1.2519579137815573,332.0,2,West Whitneymouth,1,Cox LLC,Restaurant,"406 Lucero Mountain Apt. 736
+Mollyport, RI 14316",West Whitneymouth,001-018-140-2068x875,Lee Nunez,Individual,Andersonfort,468.857.1870x688,-1.387044533614159,True,False,False
+71.0,538.0,897.0,Dairy,-0.5548378548798605,840.0,2,Cisnerostown,2,Farmer Ltd,Restaurant,"594 Patel Road Suite 676
+Autumnborough, AK 45847",Cisnerostown,924.147.5562x1759,Shelby Rice,Shelter,New Loriberg,+1-213-470-2112x7474,1.4455855554549177,False,False,True
+544.0,187.0,568.0,Dairy,0.8394022629235331,910.0,2,Leeburgh,3,Lee PLC,Restaurant,"886 Mark Plain Suite 687
+Lake Nicholashaven, MN 43931",Leeburgh,346.517.7901x471,Melissa Mclaughlin,Charity,Roberttown,671-908-7777x08364,-0.44283450392446677,True,False,False
+108.0,786.0,909.0,Rice,-1.530805937342236,959.0,1,North Victoriastad,1,Stanley PLC,Grocery Store,"3255 Steven Falls Apt. 575
+South Ashleyton, NM 59651",North Victoriastad,001-428-241-5858x19231,Matthew Cordova,NGO,Rubioborough,001-905-589-8944x09730,1.6816380628773409,False,False,True
+494.0,675.0,651.0,Soup,-0.0668538136486727,117.0,2,Amberton,1,"Morales, Wood and Cox",Restaurant,"046 Madeline Plain Apt. 669
+Smithbury, MS 53261",Amberton,468.025.0721x72227,Rebecca Mcbride,Charity,Port Timothymouth,(159)421-4100x43055,0.7374280331876485,False,True,False
+591.0,723.0,782.0,Pasta,-1.6702299491225754,762.0,2,West Lucasville,0,Simmons Group,Restaurant,"86763 Johnson Ramp Suite 259
+Adamberg, CT 79300",West Lucasville,002.503.5955x077,Timothy Burns,Charity,East Janetstad,(262)555-7560,0.5013755257652255,False,False,True
+742.0,132.0,358.0,Soup,-0.4154138430995211,840.0,2,Cisnerostown,3,Farmer Ltd,Restaurant,"594 Patel Road Suite 676
+Autumnborough, AK 45847",Cisnerostown,924.147.5562x1759,Brian Davis,Charity,Williamsfort,(750)646-5852,-0.9149395187693129,True,False,False
+293.0,721.0,837.0,Vegetables,-0.4154138430995211,342.0,0,Matthewbury,0,Smith Inc,Catering Service,"00691 Joseph Parks
+Matthewville, CO 02023",Matthewbury,+1-340-986-4095,Michelle Reed,Shelter,West John,1072168815,-0.20678199650204374,True,False,False
+290.0,664.0,500.0,Bread,0.5605542393628544,327.0,2,Villaborough,0,"Miller, Conner and Clark",Restaurant,"4464 Shaun Plain Suite 161
+Sandraview, TN 76190",Villaborough,+1-075-795-2419x75821,Richard Patterson,Charity,Huynhmouth,1091960030,-0.6788870113468899,True,False,False
+653.0,78.0,765.0,Chicken,-1.739941955012745,913.0,1,Erikatown,1,Crosby Group,Grocery Store,"81218 Peter Rest Apt. 173
+East Caitlinport, NV 39150",Erikatown,+1-307-053-5303x7456,Joshua Hooper,Shelter,Buchananton,+1-013-463-1430x05130,0.02927051092037933,True,False,False
+40.0,141.0,789.0,Dairy,0.49084223347268474,702.0,3,Lake Mistyton,2,Moreno-Melton,Supermarket,"88171 Teresa Station
+New Shane, UT 53712",Lake Mistyton,001-098-297-7862x776,Laura Robertson,NGO,Hansonfurt,616-851-6533x67759,1.4455855554549177,True,False,False
+590.0,505.0,4.0,Pasta,-0.9731098902208786,494.0,3,New Denise,3,"Anderson, Adams and Roberts",Supermarket,"Unit 8792 Box 5188
+DPO AP 55807",New Denise,+1-941-120-2190x554,Erika Rose,NGO,South Shaneville,8296491111,-0.20678199650204374,False,False,True
+308.0,227.0,6.0,Vegetables,-0.0668538136486727,923.0,3,Jonestown,0,Rodriguez Inc,Supermarket,"937 Murray Turnpike
+Lorrainestad, RI 37088",Jonestown,1383312143,Mandy Sutton PhD,Shelter,East Sharimouth,682-777-5357,1.4455855554549177,True,False,False
+680.0,154.0,785.0,Pasta,1.3970983100448906,4.0,1,Mendezmouth,0,"Clark, Prince and Williams",Grocery Store,"467 Bell Trail Suite 409
+Port Jesus, IA 61188",Mendezmouth,556.944.8935x401,Melissa Lee,Charity,Brownport,(833)194-0479x719,1.6816380628773409,False,True,False
+67.0,486.0,817.0,Chicken,-1.1822459078913876,550.0,0,Timothychester,3,"Phelps, Graham and Hayes",Catering Service,"59138 Sherman Light Apt. 256
+Rossside, ND 89271",Timothychester,(512)814-0594x96653,Victoria Torres,Charity,Martinchester,+1-624-780-9445x7755,0.5013755257652255,False,True,False
+276.0,786.0,538.0,Rice,-1.530805937342236,959.0,1,North Victoriastad,1,Stanley PLC,Grocery Store,"3255 Steven Falls Apt. 575
+South Ashleyton, NM 59651",North Victoriastad,001-428-241-5858x19231,Ronald Norton,Individual,Carterton,+1-311-060-5846x0735,1.6816380628773409,False,False,True
+68.0,526.0,321.0,Rice,-1.0428218961110483,883.0,3,New Jacob,2,"Lewis, Wagner and Solis",Supermarket,"250 Chloe Common
+South Elizabethbury, NH 23690",New Jacob,001-094-480-8706,Wanda Wise,Shelter,South Bethanyport,(940)028-0493x49472,1.6816380628773409,False,False,True
+319.0,888.0,345.0,Salad,-1.3913819255618967,50.0,0,West Danielborough,3,Perez-Williams,Catering Service,"956 Joseph Ford Apt. 098
+Moorestad, LA 74730",West Danielborough,(305)890-2191x91055,Eric Ramos,Individual,Rushfurt,515.928.1587x32812,0.5013755257652255,True,False,False
+549.0,954.0,703.0,Rice,0.6999782511431938,780.0,0,North Caitlin,2,Lee LLC,Catering Service,"056 Valentine Village Suite 407
+Bryantmouth, RI 56149",North Caitlin,(125)745-1987x650,Mr. Jonathan Williams,Individual,Bruceburgh,(606)010-6061,0.5013755257652255,False,True,False
+999.0,917.0,90.0,Soup,-0.7639738725503695,393.0,2,Heatherview,1,Steele Ltd,Restaurant,"79988 Laura Motorway Suite 853
+West Kennethfort, NV 88945",Heatherview,001-300-000-8103x26863,Alvin West,Shelter,Kellybury,(417)314-8724,1.2095330480324946,False,True,False
+715.0,36.0,668.0,Rice,0.6302662452530241,1.0,3,New Jessica,0,Gonzales-Cochran,Supermarket,"74347 Christopher Extensions
+Andreamouth, OK 91839",New Jessica,+1-600-220-0480,Maria Singh,NGO,Brandonhaven,+1-353-127-1876x477,-0.6788870113468899,False,True,False
+754.0,997.0,571.0,Fish,-0.27598983131918176,35.0,1,Andersonmouth,0,Nguyen-Parsons,Grocery Store,"23683 Paul Groves Suite 174
+Vegaville, IA 58578",Andersonmouth,(638)668-6852,Lydia Phillips,Shelter,North Hollyland,(704)162-2429,-1.150992026191736,False,False,True
+328.0,577.0,183.0,Bread,0.2817062158021757,161.0,3,Perezport,1,Campbell LLC,Supermarket,"8423 Karen Trace Apt. 648
+Johnland, IA 21810",Perezport,001-211-446-3315x74760,Nicole Walker,Individual,Thomasland,001-617-475-6913x02561,1.4455855554549177,True,False,False
+383.0,920.0,673.0,Soup,-1.6702299491225754,691.0,2,Youngchester,3,"Obrien, King and Robinson",Restaurant,"560 Diane Place
+North Carla, SC 62821",Youngchester,+1-513-264-8229x419,Shelly Castillo,Charity,Chenview,001-984-641-2359x15247,-0.9149395187693129,False,False,True
+452.0,365.0,782.0,Fruits,1.53652232182523,71.0,2,Ruizmouth,1,Jones-Edwards,Restaurant,"861 Martinez Junctions
+Smithburgh, WA 68091",Ruizmouth,(077)105-8283,Timothy Burns,Charity,East Janetstad,(262)555-7560,0.9734805406100716,True,False,False
+523.0,744.0,676.0,Fish,-0.9033978843307089,456.0,1,North Katelyn,3,Simmons PLC,Grocery Store,"7157 Denise Estate Suite 437
+Paulland, AR 99422",North Katelyn,(272)507-6150,John Williams,Charity,Brooksborough,(057)537-1761x52273,-1.387044533614159,True,False,False
+219.0,488.0,255.0,Fish,-0.27598983131918176,527.0,3,Bonillahaven,0,"Moran, Mcmillan and Jones",Supermarket,"13859 Brandon Burg Suite 195
+Jamesshire, KS 72927",Bonillahaven,001-261-466-0296x4350,Walter Myers,Individual,New Tina,+1-285-278-8381x0454,-0.9149395187693129,False,False,True
+788.0,253.0,379.0,Rice,-0.4154138430995211,231.0,3,North Tom,3,Jackson-Robinson,Supermarket,"2416 Gray Route Apt. 246
+Boydland, AL 93137",North Tom,001-341-741-8533,Tara Graham,Shelter,Lake Cory,617.869.7697,-0.9149395187693129,False,True,False
+437.0,230.0,628.0,Fruits,-0.6245498607700302,596.0,2,Zimmermanville,0,"Barnes, Castro and Curtis",Restaurant,"0998 Mcintyre Row Apt. 105
+North Crystal, KY 62420",Zimmermanville,507.577.7566,James Gardner,NGO,Morenoborough,405.211.3183x136,-1.6230970410365821,False,False,True
+765.0,168.0,695.0,Salad,0.002858192241496983,306.0,0,North Keith,2,"Evans, Wright and Mitchell",Catering Service,"73725 Anthony Way Apt. 971
+West Pamela, OH 61366",North Keith,001-726-568-9224,Janet Newton,Individual,West Amandaport,930-590-8261,-0.6788870113468899,True,False,False
+89.0,912.0,632.0,Dairy,-1.3913819255618967,334.0,1,South Jillshire,0,Cox-Mcintyre,Grocery Store,"85337 King Junction Suite 272
+East Nicoleshire, ID 63161",South Jillshire,(422)450-8076,Austin Smith,NGO,North Marcusbury,219-381-8831x93973,1.2095330480324946,True,False,False
+64.0,771.0,90.0,Chicken,-1.1822459078913876,551.0,2,East Sandratown,1,"Holland, Caldwell and Oliver",Restaurant,"7502 Silva Lights Apt. 125
+North Brittany, MA 40389",East Sandratown,(670)960-9465,Alvin West,Shelter,Kellybury,(417)314-8724,0.02927051092037933,False,False,True
+827.0,964.0,59.0,Rice,1.3970983100448906,192.0,0,Leslieville,1,"Hunter, Ballard and Caldwell",Catering Service,"60550 Fleming Branch Suite 560
+Jessicashire, UT 62403",Leslieville,001-594-592-2116x9925,Alicia Thomas,Charity,Lake Mary,(604)320-0347x3019,0.5013755257652255,False,True,False
+717.0,991.0,149.0,Vegetables,-1.321669919671727,432.0,2,Carolchester,1,Meyer and Sons,Restaurant,"08209 Eaton Streets Apt. 968
+South Laurenside, RI 88383",Carolchester,001-738-662-6338,Nathan Willis,NGO,Danielfort,830.318.9696x322,-0.9149395187693129,False,False,True
+352.0,427.0,797.0,Soup,0.5605542393628544,338.0,0,Adambury,2,Ibarra LLC,Catering Service,"064 Andrea Land Suite 946
+Lake Melody, ME 49581",Adambury,6703380260,Robert Becker,Charity,Danielland,060.756.0612,-1.150992026191736,True,False,False
+937.0,744.0,799.0,Fish,-0.9033978843307089,456.0,1,North Katelyn,3,Simmons PLC,Grocery Store,"7157 Denise Estate Suite 437
+Paulland, AR 99422",North Katelyn,(272)507-6150,Adam Moore,Charity,East Josephview,+1-119-080-3260x81212,-1.387044533614159,True,False,False
+257.0,191.0,555.0,Salad,-0.9033978843307089,508.0,2,Walkerfurt,2,"Goodwin, Acosta and Chan",Restaurant,"81662 Lawrence Mountains Apt. 545
+Sarahstad, ND 47525",Walkerfurt,001-076-856-9568x65782,Mary Lewis,Individual,Port Richard,+1-443-680-8966,-0.20678199650204374,False,True,False
+636.0,554.0,144.0,Soup,0.3514182216923454,754.0,2,North Sharonburgh,0,Rodriguez and Sons,Restaurant,"210 Dickerson Pine
+Port Troy, KY 22574",North Sharonburgh,477.309.3018x208,Jennifer Nelson,Individual,North Paul,(613)802-7241x644,-0.6788870113468899,True,False,False
+645.0,739.0,220.0,Chicken,-1.6702299491225754,186.0,1,Evansmouth,0,Garner PLC,Grocery Store,"90840 Edgar Light Suite 091
+Lake Caseyberg, IA 64520",Evansmouth,(112)902-8389,Cassandra Mendoza,NGO,Dantown,2612673922,1.2095330480324946,False,True,False
+555.0,253.0,946.0,Rice,-0.4154138430995211,231.0,3,North Tom,3,Jackson-Robinson,Supermarket,"2416 Gray Route Apt. 246
+Boydland, AL 93137",North Tom,001-341-741-8533,Taylor Mann,Charity,North Lawrence,001-766-748-2534x468,-0.9149395187693129,False,True,False
+960.0,292.0,830.0,Chicken,-0.6942618666601998,906.0,3,West Kevin,0,Wright LLC,Supermarket,"PSC 1473, Box 2158
+APO AE 95836",West Kevin,001-515-383-6029x214,Jeffrey Cooper,Shelter,Lake Christian,001-877-245-5095,-1.387044533614159,True,False,False
+169.0,188.0,353.0,Soup,-1.530805937342236,55.0,1,Danachester,0,Wilson-Brown,Grocery Store,"220 Rachel Trace
+Port Mark, AK 17083",Danachester,001-473-163-6196x2386,Mrs. Stacey Morales MD,Individual,Juliastad,866.050.9817,-0.6788870113468899,False,True,False
+918.0,92.0,42.0,Chicken,1.1182502864842119,752.0,1,East Heatherport,0,Butler-Richardson,Grocery Store,"99213 George Spurs Suite 321
+Petersenberg, MA 55289",East Heatherport,+1-268-505-2616,Maria Jacobs,NGO,Port Dawntown,(225)019-8954,-0.6788870113468899,False,False,True
+529.0,515.0,399.0,Dairy,-1.112533902001218,725.0,1,New Evanport,2,"Nguyen, Chan and Brown",Grocery Store,"6755 Lindsay Port
+Allenland, LA 52111",New Evanport,747-692-4848x020,Jennifer Hughes,Charity,West Donnaton,001-147-430-1204x8556,0.9734805406100716,False,True,False
+824.0,151.0,508.0,Chicken,-0.4851258489896908,902.0,3,Port Robertport,1,Parsons Ltd,Supermarket,"13271 Michael Way Apt. 244
+South Jennifer, AK 74009",Port Robertport,445-558-2787x92329,Kimberly Wilson,Individual,Susanville,9903662975,0.02927051092037933,False,False,True
+986.0,915.0,875.0,Vegetables,0.6302662452530241,198.0,2,Port Karen,3,Bowman LLC,Restaurant,"70033 Katie Walk
+South Joshuaport, NY 57110",Port Karen,(890)877-4218x852,Scott Smith,Individual,New Donnahaven,001-376-965-5711,-0.20678199650204374,True,False,False
+817.0,969.0,800.0,Soup,1.6759463336055693,208.0,2,East Garyton,2,"Miller, Johnson and Fernandez",Restaurant,"228 Kathryn Mountains Suite 986
+Cortezmouth, IA 90538",East Garyton,985.790.0081x8718,Anthony Garcia,Individual,Brownbury,+1-845-541-9687x513,-0.44283450392446677,True,False,False
+87.0,829.0,918.0,Dairy,1.2576742982645512,262.0,3,New Carol,1,Bradford-Martinez,Supermarket,"366 Wheeler Fields
+Harringtonchester, WY 86540",New Carol,199.451.0254,Katrina Cruz,Charity,Jenkinsfurt,709-191-5616x88772,-1.150992026191736,False,True,False
+433.0,245.0,6.0,Chicken,-1.4610939314520663,48.0,2,Timothyview,1,Conway-Barr,Restaurant,"597 Contreras Roads
+South Hannah, RI 04553",Timothyview,+1-820-339-5162x911,Mandy Sutton PhD,Shelter,East Sharimouth,682-777-5357,-1.6230970410365821,False,False,True
+185.0,486.0,585.0,Chicken,-1.1822459078913876,550.0,0,Timothychester,3,"Phelps, Graham and Hayes",Catering Service,"59138 Sherman Light Apt. 256
+Rossside, ND 89271",Timothychester,(512)814-0594x96653,Mark Lewis,NGO,Lisaview,+1-894-554-0220x5777,0.5013755257652255,False,True,False
+979.0,855.0,553.0,Salad,0.14228220402183636,596.0,2,Zimmermanville,2,"Barnes, Castro and Curtis",Restaurant,"0998 Mcintyre Row Apt. 105
+North Crystal, KY 62420",Zimmermanville,507.577.7566,Scott Proctor,Shelter,Adamland,(998)282-2315x7499,0.5013755257652255,False,False,True
+535.0,663.0,329.0,Dairy,1.1182502864842119,315.0,2,Lake Andrewmouth,3,Nelson LLC,Restaurant,"773 Frazier Ranch
+Kellerbury, GA 32205",Lake Andrewmouth,+1-859-029-3911x34890,Christine Patterson,Individual,Edwardfort,001-270-907-0981x5520,0.2653230183428024,False,True,False
+295.0,25.0,493.0,Rice,1.53652232182523,898.0,2,Medinatown,0,Wilson Group,Restaurant,"Unit 6637 Box 3119
+DPO AP 06435",Medinatown,4943539272,Chelsea Powell,Charity,Lake Rachelburgh,001-527-059-4168x72504,-0.20678199650204374,False,True,False
+893.0,180.0,276.0,Salad,0.6302662452530241,7.0,2,Lake Christopherburgh,1,Ortiz-Lee,Restaurant,"1842 Villarreal Shores
+Williamfort, CT 44529",Lake Christopherburgh,(563)889-7190,Scott Hunter,Individual,Greenton,074.305.5053x60975,1.2095330480324946,False,True,False
+426.0,101.0,538.0,Dairy,0.6302662452530241,538.0,2,Jasonmouth,1,Beck Inc,Restaurant,"102 Jackson Plaza Apt. 330
+North Meganborough, NC 67139",Jasonmouth,963-484-4775x327,Ronald Norton,Individual,Carterton,+1-311-060-5846x0735,0.02927051092037933,True,False,False
+714.0,951.0,423.0,Vegetables,-0.4154138430995211,118.0,3,Lake Joseph,2,Evans-Harrison,Supermarket,"2430 Michael Branch
+Lake Brian, CA 67262",Lake Joseph,066.832.7189x65581,Christine Bell,Individual,South Edwardburgh,(172)033-3196x74489,-1.6230970410365821,False,True,False
+261.0,602.0,735.0,Chicken,-0.7639738725503695,913.0,1,Erikatown,0,Crosby Group,Grocery Store,"81218 Peter Rest Apt. 173
+East Caitlinport, NV 39150",Erikatown,+1-307-053-5303x7456,Kyle Scott,Individual,Reedview,001-980-204-3107x974,0.5013755257652255,True,False,False
+238.0,572.0,728.0,Bread,1.3970983100448906,212.0,3,Port Markview,1,"Dennis, Parker and Sanchez",Supermarket,"456 Nelson Street
+Ericside, NH 82097",Port Markview,921-065-5873x078,Dustin Stark,Charity,Kimberlymouth,(716)950-4574x79791,-0.20678199650204374,False,False,True
+560.0,731.0,215.0,Fruits,1.1182502864842119,324.0,1,East Elizabeth,3,Roberts Group,Grocery Store,"160 Sheri Course
+Mossfurt, MO 13285",East Elizabeth,043-467-7558x957,Mr. Matthew Johnson DDS,Charity,Port Stephen,1733110659,1.6816380628773409,False,False,True
+584.0,705.0,968.0,Fruits,0.9091142688137028,199.0,0,Christinamouth,0,"Clark, Evans and Navarro",Catering Service,"1567 Rice Route
+Mcbrideton, SD 00586",Christinamouth,+1-260-408-7633x914,Mr. Joseph Herring,Individual,Mariefurt,839.044.2094,1.6816380628773409,True,False,False
+446.0,524.0,874.0,Soup,-0.0668538136486727,387.0,1,West Juliabury,3,Barrera-Ward,Grocery Store,"55591 Eric Corners Apt. 955
+Riveraburgh, NJ 52897",West Juliabury,958.242.0037,Danny Brown,Individual,East Shirley,829.371.2280x79605,-1.150992026191736,False,True,False
+868.0,460.0,361.0,Dairy,1.327386304154721,202.0,3,Vazquezshire,1,Graham-Peters,Supermarket,"72444 Dennis Centers Apt. 058
+East Sarahton, NM 90794",Vazquezshire,+1-491-368-1719x38393,Samuel Lewis,Individual,North Nicole,001-381-807-5033x358,-1.387044533614159,False,False,True
+801.0,131.0,72.0,Fish,-0.6942618666601998,241.0,0,Devinmouth,1,"Harper, Blake and Alexander",Catering Service,"882 Smith Heights
+East Cherylborough, DC 06299",Devinmouth,(144)381-3923,Charles Davidson,Shelter,West Angelatown,+1-294-698-2957,-1.150992026191736,False,True,False
+600.0,910.0,492.0,Salad,0.7696902570333635,533.0,0,Rogersmouth,0,"Daniel, Schroeder and Morse",Catering Service,"71684 Campbell Stravenue
+Garrettside, HI 68372",Rogersmouth,+1-753-153-8390x0816,Julie Lewis,NGO,South Steven,(557)352-3497x4606,-0.9149395187693129,False,False,True
+850.0,652.0,381.0,Fruits,1.2576742982645512,634.0,3,Colemanton,1,Morgan-Blackwell,Supermarket,"5801 Duncan Shoals
+West Rachel, TX 93833",Colemanton,(254)215-9233,Yvette Huffman,Charity,Reevestown,8398518386,0.02927051092037933,True,False,False
+266.0,367.0,376.0,Vegetables,0.8394022629235331,610.0,3,Allenton,3,"Kelly, Cummings and Ward",Supermarket,"Unit 4632 Box 7131
+DPO AP 21204",Allenton,795.078.7850,John Reeves,NGO,Jamieview,+1-050-306-9244x20943,1.4455855554549177,True,False,False
+996.0,855.0,211.0,Salad,0.14228220402183636,596.0,2,Zimmermanville,2,"Barnes, Castro and Curtis",Restaurant,"0998 Mcintyre Row Apt. 105
+North Crystal, KY 62420",Zimmermanville,507.577.7566,Judy Griffith,Charity,Baileyville,+1-255-391-6382x12809,0.5013755257652255,False,False,True
+530.0,59.0,543.0,Vegetables,0.8394022629235331,251.0,2,East Terrancemouth,3,Carter-Jones,Restaurant,"26720 Candace Inlet Suite 052
+Hendersonton, MA 30678",East Terrancemouth,892-412-5796,Brenda Green,Charity,Jacobmouth,001-344-515-4579x388,-0.20678199650204374,False,True,False
+56.0,690.0,452.0,Fruits,1.1879622923743816,779.0,3,New Bobbytown,0,Maynard LLC,Supermarket,"7357 Kimberly Estate
+Williamtown, TX 45569",New Bobbytown,416.974.9320x8176,Tina Banks,Charity,Port Judith,986-535-7620,-1.6230970410365821,False,False,True
+121.0,460.0,560.0,Dairy,1.327386304154721,202.0,3,Vazquezshire,1,Graham-Peters,Supermarket,"72444 Dennis Centers Apt. 058
+East Sarahton, NM 90794",Vazquezshire,+1-491-368-1719x38393,Matthew Mendez,Shelter,South Meganland,+1-406-192-3141x20799,-1.387044533614159,False,False,True
+216.0,794.0,685.0,Fruits,-0.34570183720935144,380.0,2,Lake Christophermouth,3,Nelson PLC,Restaurant,"USNS Walker
+FPO AE 02837",Lake Christophermouth,(302)042-7352,Angela Knight,Individual,Port Joshua,491-330-2377x936,0.9734805406100716,False,True,False
+26.0,959.0,233.0,Pasta,0.002858192241496983,758.0,0,Port Patrick,0,Todd Group,Catering Service,"Unit 6259 Box 3832
+DPO AE 28167",Port Patrick,236.722.8623,Alicia Porter,Charity,Port Ericmouth,001-652-614-2884x66578,-1.150992026191736,False,True,False
+73.0,708.0,222.0,Rice,-0.6245498607700302,800.0,0,East Amyfurt,2,"Hughes, Fuller and Sanchez",Catering Service,"19447 Michael Locks Apt. 580
+Thompsonburgh, NJ 75869",East Amyfurt,(040)473-0155,Stephanie Jones,Shelter,West Aaronport,001-029-940-1111,-0.20678199650204374,False,True,False
+45.0,457.0,569.0,Soup,0.2817062158021757,347.0,3,Louismouth,2,"Hood, Hoffman and Wright",Supermarket,"783 Gonzales Valleys Apt. 115
+Alexandrialand, NH 52248",Louismouth,992.697.3906x31622,Danny Randolph,Shelter,South Yolanda,029.011.8582,0.5013755257652255,True,False,False
+248.0,458.0,321.0,Dairy,-0.6942618666601998,210.0,1,Paulmouth,2,Jones-Miller,Grocery Store,"8892 Patrick Shoals
+Tristanfort, OH 00576",Paulmouth,028-684-5516x43547,Wanda Wise,Shelter,South Bethanyport,(940)028-0493x49472,0.02927051092037933,False,True,False
+722.0,898.0,888.0,Fish,0.14228220402183636,87.0,1,West Adam,0,"Young, Townsend and Mccarthy",Grocery Store,"4577 Shannon Tunnel Suite 786
+Jamesview, CT 96322",West Adam,001-286-579-2810x1913,Matthew Davis,Charity,Birdview,1367475533,0.9734805406100716,True,False,False
+282.0,161.0,298.0,Vegetables,0.42113022758251506,414.0,3,New Matthew,0,Gonzales Group,Supermarket,"9183 Robert Mill Suite 331
+Curtisview, MI 18328",New Matthew,+1-790-667-8198x9396,Robert Burke,NGO,Marksmouth,995.297.8023x0932,-0.6788870113468899,True,False,False
+894.0,730.0,903.0,Soup,-0.7639738725503695,372.0,2,Lewisberg,2,Elliott-Jones,Restaurant,"Unit 8546 Box 6518
+DPO AE 36672",Lewisberg,690.272.6499,Cindy Robinson DDS,Shelter,Franklinview,4186239588,-0.9149395187693129,False,True,False
+915.0,441.0,65.0,Fruits,-1.6702299491225754,919.0,3,Port Tanyaburgh,2,Cruz-Davis,Supermarket,"032 Suarez Pine Apt. 241
+Port Anthonyborough, IN 97036",Port Tanyaburgh,(126)595-1397,Cody Gardner,NGO,Port Belinda,(565)395-0421x232,-1.150992026191736,False,False,True
+811.0,399.0,57.0,Chicken,-0.6942618666601998,593.0,1,Tammyside,2,"Spencer, Gibson and Arias",Grocery Store,"04212 Gonzalez Shoals Suite 814
+Stephenton, MO 69807",Tammyside,525.724.0172x690,Christopher Lozano,Individual,New Mary,217-827-0862,1.4455855554549177,False,False,True
+245.0,725.0,701.0,Soup,1.4668103159350603,846.0,3,South Thomasville,0,Miller Inc,Supermarket,"7787 Warren Estates Suite 246
+Phillipsburgh, OK 32953",South Thomasville,394.144.5269x2229,Amber Arellano,NGO,South Marymouth,+1-718-425-8787x628,1.6816380628773409,False,False,True
+823.0,96.0,800.0,Dairy,-1.4610939314520663,656.0,2,South Tiffanyfort,0,Henry PLC,Restaurant,"10897 Duncan Manors Apt. 117
+Whitneyshire, IA 92311",South Tiffanyfort,104.576.7855x2145,Anthony Garcia,Individual,Brownbury,+1-845-541-9687x513,0.5013755257652255,True,False,False
+322.0,256.0,824.0,Rice,0.49084223347268474,384.0,1,Jamesfurt,1,Rogers-Warren,Grocery Store,"408 Katelyn Bridge
+Dayshire, LA 95554",Jamesfurt,001-439-195-6960,Madison Myers,Shelter,Cruzland,(123)500-8333x8386,1.2095330480324946,True,False,False
+644.0,837.0,800.0,Soup,1.6759463336055693,642.0,0,Lesterstad,3,Woodward-Jensen,Catering Service,"USCGC Ewing
+FPO AP 42279",Lesterstad,432-670-6542x60306,Anthony Garcia,Individual,Brownbury,+1-845-541-9687x513,0.2653230183428024,False,True,False
+159.0,496.0,420.0,Chicken,-0.27598983131918176,552.0,0,Pearsonchester,1,"Schwartz, Holland and Mccarthy",Catering Service,"19727 Luke Wall
+Jacquelinetown, ME 38666",Pearsonchester,001-486-894-6733x80522,Susan Green,Charity,Josephborough,+1-716-778-7428x09975,1.2095330480324946,False,False,True
+978.0,818.0,799.0,Fish,1.6759463336055693,248.0,2,South Michellechester,1,"Oliver, Cross and Gilbert",Restaurant,"USS Mcintyre
+FPO AA 76857",South Michellechester,001-607-614-4871x9620,Adam Moore,Charity,East Josephview,+1-119-080-3260x81212,1.4455855554549177,False,False,True
+430.0,861.0,972.0,Dairy,1.327386304154721,937.0,2,Roachhaven,1,Taylor Group,Restaurant,"14689 Scott Gateway
+North Curtis, RI 22825",Roachhaven,(903)301-8467x005,Patricia Joseph,Individual,Lauraport,611-927-6696x43169,0.7374280331876485,True,False,False
+942.0,189.0,850.0,Salad,-1.321669919671727,948.0,3,West Lisamouth,0,House-Bates,Supermarket,"48407 Hall Cliffs
+Lake Traceymouth, MD 10524",West Lisamouth,+1-910-582-8983x79304,Kristopher Mendoza,Individual,Bradfurt,(678)116-6339x54475,-0.6788870113468899,False,False,True
+463.0,615.0,269.0,Salad,-1.0428218961110483,104.0,0,Lake Theresa,0,Jackson LLC,Catering Service,"254 Brandon Lodge
+Michaelton, NE 66307",Lake Theresa,001-488-905-7389,Mrs. Paula Jones,Individual,Emilymouth,(935)377-2742x36543,0.02927051092037933,False,False,True
+310.0,107.0,997.0,Salad,0.21199420991200604,464.0,0,Port Jacob,0,Barber Ltd,Catering Service,"9428 Garcia Loop Apt. 919
+Amberfurt, KY 73455",Port Jacob,001-045-508-9337x308,Amanda Cain,NGO,New Steven,+1-001-491-5601x5316,0.5013755257652255,False,False,True
+698.0,633.0,185.0,Salad,-0.4851258489896908,922.0,2,Lake Michael,3,Villegas Inc,Restaurant,"648 Maria Gardens
+New Charles, NM 12489",Lake Michael,3387210560,Shannon Pineda,Individual,Lake Amanda,129-249-0893x786,1.2095330480324946,False,True,False
+61.0,990.0,550.0,Pasta,-1.0428218961110483,720.0,2,Francisshire,0,"Page, Smith and Davis",Restaurant,"065 Mary Estate Apt. 886
+North Jessica, NY 33169",Francisshire,921-470-8846x3047,Shawn Gibson,Individual,South Eric,001-268-793-0427x33000,0.5013755257652255,False,False,True
+885.0,515.0,400.0,Dairy,-1.112533902001218,725.0,1,New Evanport,2,"Nguyen, Chan and Brown",Grocery Store,"6755 Lindsay Port
+Allenland, LA 52111",New Evanport,747-692-4848x020,John Byrd,Shelter,West Randall,(219)313-6702x212,0.9734805406100716,False,True,False
+596.0,844.0,949.0,Fish,1.3970983100448906,495.0,3,Brownshire,1,"Barker, Gibbs and Lopez",Supermarket,"518 Francis Estates Apt. 955
+Gonzalezhaven, DE 36339",Brownshire,8977010648,Allison Pennington,Individual,North Lydiaberg,+1-586-713-6798,1.4455855554549177,True,False,False
+768.0,939.0,213.0,Rice,1.327386304154721,983.0,1,Herbertbury,1,"Munoz, Stone and Wallace",Grocery Store,"739 Adams Alley
+Vangborough, IN 50041",Herbertbury,(041)135-3095x826,Kelly Barber,NGO,Emilymouth,259-420-4088x04690,-1.150992026191736,True,False,False
+650.0,421.0,505.0,Dairy,-0.1365658195388424,676.0,0,Lake Jasmin,1,Osborne LLC,Catering Service,"448 Thompson Creek
+West Diane, WV 52163",Lake Jasmin,+1-340-436-8105x510,Alexandra Owens,NGO,Bradleyland,927.996.1259,-1.387044533614159,False,False,True
+651.0,156.0,113.0,Fish,-0.1365658195388424,970.0,0,Jeffreybury,3,"Lewis, Preston and Price",Catering Service,"6974 Paul Estate
+Lake Jacob, NV 24380",Jeffreybury,6685913720,Jonathan Young,Shelter,Georgeborough,164-864-1786x77029,-0.9149395187693129,False,False,True
+866.0,461.0,615.0,Pasta,-1.112533902001218,511.0,1,Port Davidshire,1,Mitchell PLC,Grocery Store,"1968 Todd Via Apt. 855
+South Melissa, MN 02718",Port Davidshire,001-534-826-6584,Rachel Carson,NGO,Robertside,001-910-852-2109x575,-0.9149395187693129,False,False,True
+669.0,224.0,570.0,Fruits,0.21199420991200604,556.0,0,Brittanyland,3,"Reyes, Houston and Esparza",Catering Service,"60546 Amanda Canyon
+Holmesmouth, ME 97812",Brittanyland,7525269578,Anthony Cochran,Individual,Port Todd,+1-960-253-0828x4007,-0.9149395187693129,True,False,False
+299.0,911.0,319.0,Fish,-1.4610939314520663,124.0,3,Lake Shelby,1,"Allen, Zimmerman and Harrington",Supermarket,"PSC 7915, Box 6921
+APO AE 81937",Lake Shelby,832-646-1114x86947,Donald Bender,Charity,Andersenfort,(262)899-6349x569,-0.44283450392446677,False,False,True
+690.0,85.0,781.0,Pasta,0.14228220402183636,554.0,2,Brandyberg,2,Jackson Ltd,Restaurant,"325 Becker Pass
+West Bobshire, MT 42103",Brandyberg,920-705-5617x44135,Jason Taylor,NGO,Reginaburgh,150-638-0354x9178,-1.6230970410365821,False,True,False
+315.0,254.0,854.0,Rice,0.2817062158021757,703.0,0,Lake Jamestown,2,Pierce Group,Catering Service,"87040 Smith Lodge
+New Robertbury, DE 31100",Lake Jamestown,+1-843-457-7096x3283,Christopher Diaz,Individual,Lorifurt,001-442-106-2480x735,0.2653230183428024,True,False,False
+311.0,294.0,187.0,Bread,0.9788262747038725,113.0,0,East Elizabethberg,1,"Anderson, Nicholson and Bruce",Catering Service,"8546 James Fields Apt. 534
+Hallborough, AL 55990",East Elizabethberg,+1-274-720-0033x1795,Amy Thomas,Shelter,Lake Erica,+1-215-295-0597x4795,-0.9149395187693129,False,True,False
+362.0,538.0,9.0,Dairy,-0.5548378548798605,840.0,2,Cisnerostown,2,Farmer Ltd,Restaurant,"594 Patel Road Suite 676
+Autumnborough, AK 45847",Cisnerostown,924.147.5562x1759,Emily Turner,Shelter,West Robert,001-631-022-6157x520,1.4455855554549177,False,False,True
+480.0,548.0,670.0,Fish,0.002858192241496983,714.0,0,North William,3,Ramos Group,Catering Service,"2242 Olivia Grove
+Haileymouth, NH 71518",North William,727-987-0431x177,Amber Hobbs,NGO,Rogersfort,914.864.5127x8523,-0.9149395187693129,False,True,False
+111.0,214.0,723.0,Soup,-1.1822459078913876,24.0,3,Hestermouth,0,"Black, Collins and Richard",Supermarket,"643 Galvan Burgs
+Fletcherhaven, AZ 86988",Hestermouth,266.040.9664x08185,Lisa Kim,Individual,New Brandyhaven,+1-465-856-2095,1.2095330480324946,False,True,False
+990.0,791.0,943.0,Soup,-0.20627782542901207,152.0,0,South Jacobport,0,Rogers-Shaw,Catering Service,"39253 David Common
+West Tyler, NC 21196",South Jacobport,001-522-305-5977x0080,Rebecca Lucas,Charity,New Jessicabury,721.446.3873x3399,1.4455855554549177,False,False,True
+487.0,654.0,968.0,Bread,-1.6702299491225754,765.0,1,South Douglashaven,1,Wong-Wilson,Grocery Store,"1663 Lindsey Knoll Suite 148
+South Emmachester, LA 53472",South Douglashaven,693-832-6017x426,Mr. Joseph Herring,Individual,Mariefurt,839.044.2094,0.7374280331876485,False,False,True
+364.0,822.0,576.0,Dairy,0.07257019813166667,237.0,3,Frederickside,2,"White, Crawford and Pearson",Supermarket,"4785 Felicia Circle Suite 239
+North Melissa, KY 96802",Frederickside,958.016.7653x7393,Justin Lopez,Individual,East Stephenton,(526)153-8449x436,0.5013755257652255,False,True,False
+255.0,256.0,438.0,Rice,0.49084223347268474,384.0,1,Jamesfurt,1,Rogers-Warren,Grocery Store,"408 Katelyn Bridge
+Dayshire, LA 95554",Jamesfurt,001-439-195-6960,Jane Davis,Individual,Lake Joshuaville,001-480-554-8487x778,1.2095330480324946,True,False,False
+260.0,137.0,173.0,Pasta,0.21199420991200604,87.0,1,West Adam,3,"Young, Townsend and Mccarthy",Grocery Store,"4577 Shannon Tunnel Suite 786
+Jamesview, CT 96322",West Adam,001-286-579-2810x1913,Jason Moore,NGO,West Courtneyport,913.468.5154x18139,-0.9149395187693129,False,False,True
+803.0,701.0,240.0,Salad,0.49084223347268474,192.0,0,Leslieville,2,"Hunter, Ballard and Caldwell",Catering Service,"60550 Fleming Branch Suite 560
+Jessicashire, UT 62403",Leslieville,001-594-592-2116x9925,Ronald Miller,Shelter,Edwardsside,0180633263,-0.9149395187693129,False,False,True
+678.0,56.0,139.0,Vegetables,-1.1822459078913876,125.0,3,Lake April,2,Brown-Grimes,Supermarket,"71570 Jason Spurs Apt. 697
+Melissaton, ID 56125",Lake April,492-029-0285x3479,Charles Martin,NGO,New Christopher,(586)009-0817x964,0.02927051092037933,True,False,False
+495.0,665.0,878.0,Pasta,-1.321669919671727,142.0,0,Mitchellmouth,1,"Myers, Kelley and Riley",Catering Service,"374 Murray Run
+Port Sarahview, CA 10295",Mitchellmouth,001-912-865-5943x9580,Cory Johnson,NGO,Port Robertmouth,(944)311-5766,-1.150992026191736,False,True,False
+671.0,297.0,610.0,Pasta,1.3970983100448906,409.0,1,East Roberthaven,0,Ayala LLC,Grocery Store,"PSC 6395, Box 4259
+APO AE 55285",East Roberthaven,714.879.6195x1367,Jimmy Morton,Charity,New Carrie,001-721-348-0570x6158,-0.9149395187693129,True,False,False
+378.0,765.0,904.0,Soup,-1.739941955012745,161.0,3,Perezport,2,Campbell LLC,Supermarket,"8423 Karen Trace Apt. 648
+Johnland, IA 21810",Perezport,001-211-446-3315x74760,Amanda Kline,Shelter,East Travis,001-265-376-3204x275,1.2095330480324946,False,True,False
+527.0,340.0,572.0,Fruits,-1.6005179432324057,634.0,3,Colemanton,1,Morgan-Blackwell,Supermarket,"5801 Duncan Shoals
+West Rachel, TX 93833",Colemanton,(254)215-9233,Diana Blair,Shelter,Murrayside,001-632-774-3398x50003,0.2653230183428024,False,False,True
+846.0,125.0,549.0,Rice,-0.34570183720935144,982.0,1,Westbury,1,Martinez PLC,Grocery Store,"93509 Solomon Station
+Sarahview, NH 55581",Westbury,944-129-2371x8219,Trevor Lam,NGO,New Alexismouth,726-277-0665,-1.387044533614159,False,True,False
+138.0,648.0,392.0,Rice,1.1182502864842119,904.0,1,West Miaside,0,Smith-Morales,Grocery Store,"92861 Megan Extension Apt. 163
+Jacobsburgh, MD 32991",West Miaside,481.162.2452x4959,Tracy Douglas,NGO,Gordonstad,+1-084-522-8932x8580,0.02927051092037933,True,False,False
+356.0,840.0,663.0,Dairy,1.1879622923743816,548.0,3,Lisamouth,3,"House, James and Miller",Supermarket,"52465 Danielle Forge Suite 949
+Walterschester, CT 88915",Lisamouth,070-175-5725,Michael English,NGO,Lake Daniel,612.320.3740,-1.6230970410365821,False,True,False
+366.0,695.0,691.0,Fruits,-0.6245498607700302,176.0,2,East John,0,Allen-Mccullough,Restaurant,"3715 White Gardens Apt. 568
+South Sarah, AK 76176",East John,8921994982,Brittany Williams,Individual,Christinehaven,078.314.8173x43041,0.02927051092037933,False,False,True
+943.0,89.0,934.0,Chicken,-1.6005179432324057,844.0,1,Olsenstad,2,Gallagher-Brown,Grocery Store,"USNV Morris
+FPO AP 79488",Olsenstad,9339428554,Dr. Wendy Terrell,Charity,Erikashire,566-236-8791,0.9734805406100716,False,True,False
+750.0,931.0,742.0,Vegetables,1.6062343277153996,139.0,3,Port Connie,3,Johnson-Ray,Supermarket,"3639 Jones Brooks
+South Matthew, VA 33223",Port Connie,294.692.7978x3473,Matthew Webb,Charity,West David,001-998-341-9445x0465,0.02927051092037933,False,True,False
+949.0,241.0,240.0,Fish,-1.530805937342236,135.0,0,East Candace,0,Dyer Group,Catering Service,"601 Kent Mills Apt. 098
+New Robertstad, NY 73393",East Candace,906.900.1026,Ronald Miller,Shelter,Edwardsside,0180633263,0.02927051092037933,False,False,True
+830.0,353.0,706.0,Fruits,-1.4610939314520663,418.0,2,Deborahfurt,2,"Schwartz, Odonnell and Padilla",Restaurant,"23011 Barnett Falls Apt. 524
+West Cameron, WY 52614",Deborahfurt,955-658-8107x92494,Shannon Jensen,Shelter,Lake Kevinport,001-378-570-1120x234,1.4455855554549177,True,False,False
+657.0,945.0,220.0,Vegetables,-0.6942618666601998,351.0,1,South Stefanietown,0,Berry-Mack,Grocery Store,"188 Tamara Crossroad
+Lake Melissa, FL 63621",South Stefanietown,(769)872-1659,Cassandra Mendoza,NGO,Dantown,2612673922,-0.44283450392446677,False,False,True
+200.0,97.0,350.0,Rice,1.2576742982645512,346.0,1,Thomasville,1,"Phillips, Wolfe and Martin",Grocery Store,"Unit 1376 Box 6294
+DPO AE 62072",Thomasville,001-548-413-4962,Sylvia Stanley,Shelter,Jenniferbury,065-230-0281,-0.44283450392446677,False,False,True
+214.0,479.0,893.0,Salad,-1.6702299491225754,786.0,2,Basstown,0,Simmons-Davis,Restaurant,"788 Tiffany Spur Apt. 373
+Port Matthew, NY 44804",Basstown,532.668.4291x87339,Carrie Hess,Charity,Jarvisshire,+1-828-067-9673x188,-1.150992026191736,False,False,True
+409.0,995.0,159.0,Rice,0.7696902570333635,868.0,1,Rodriguezview,3,"West, Martinez and Warren",Grocery Store,"185 Bruce Mission
+Janeburgh, MI 52383",Rodriguezview,(042)376-1212x66871,Angela Cortez,NGO,Lisaton,+1-685-216-4851x71780,0.02927051092037933,False,True,False
+333.0,332.0,368.0,Rice,-0.9731098902208786,616.0,2,Clarkberg,1,Moore-Flowers,Restaurant,"57451 Davis Port Apt. 531
+East John, CT 19104",Clarkberg,(256)326-8681x6129,Debra Murray,NGO,Duncanchester,566-832-5437,-0.44283450392446677,False,False,True
+209.0,893.0,594.0,Salad,-1.6005179432324057,46.0,1,South Lisaberg,2,"Fisher, Hernandez and Webster",Grocery Store,"8490 Valdez Ports Suite 007
+Port Jeremy, NV 85800",South Lisaberg,871-801-8397x99626,Sheri Johnson,Shelter,North Christopher,253.920.0751,1.2095330480324946,False,True,False
+614.0,707.0,90.0,Soup,0.21199420991200604,625.0,1,East Lisa,1,Whitney-Fields,Grocery Store,"643 Morgan Rapids Apt. 181
+Lake Susan, RI 01256",East Lisa,399-479-4880x0272,Alvin West,Shelter,Kellybury,(417)314-8724,-0.20678199650204374,False,False,True
+79.0,188.0,795.0,Soup,-1.530805937342236,55.0,1,Danachester,0,Wilson-Brown,Grocery Store,"220 Rachel Trace
+Port Mark, AK 17083",Danachester,001-473-163-6196x2386,Caitlin Cobb,Charity,North Andresport,+1-968-871-4930,-0.6788870113468899,False,True,False
